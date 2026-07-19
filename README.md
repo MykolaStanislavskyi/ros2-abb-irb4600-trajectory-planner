@@ -368,13 +368,12 @@ The plots are used to inspect:
 
 At the beginning and at the final Home position, joint velocity and acceleration approach zero.
 
+
 ## Demonstration Video
 
-Recommended video filename:
+Click the image below to watch the complete machining simulation:
 
-```text
-ros2_abb_irb4600_trajectory_demo.mp4
-```
+[![Watch the ABB IRB 4600 trajectory demonstration](docs/rviz_trajectory_result.png)](docs/ros2_abb_irb4600_trajectory_demo.webm)
 
 ## Known Limitations
 
