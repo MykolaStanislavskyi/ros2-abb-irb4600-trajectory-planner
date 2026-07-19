@@ -1,0 +1,27 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Generated trajectory data
+trajectory_log.csv
+*.bag
+*.db3
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary and backup files
+*.backup
+*.before_*
+*~
+*.swp
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
